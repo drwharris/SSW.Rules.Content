@@ -5,13 +5,15 @@ uri: follow-boy-scout-rule
 authors:
   - title: Adam Cogan
     url: https://ssw.com.au/people/adam-cogan
-related: []
+  - title: Andrew Harris
+    url: https://ssw.com.au/people/andrew-harris
+related:
+  - wrap-the-same-logic-in-a-method-instead-of-writing-it-again-and-again
 redirects:
   - do-you-follow-boy-scout-rule
 created: 2018-04-30T22:01:51.000Z
 archivedreason: null
 guid: e7064a56-5702-42fb-b4a3-3c934c6163eb
-
 ---
 
 This rule is inspired by a piece from [Robert C. Martin (Uncle Bob)](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html) where he identifies an age old boys scouts rule could be used by software developers to constantly improve a codebase.
@@ -22,7 +24,7 @@ Uncle Bob proposed the original rule...
 
 > Always leave the campground cleaner than you found it.
 
-...be changed to 
+...be repurposed as 
 
 > Always check a module in cleaner than when you checked it out.
 
